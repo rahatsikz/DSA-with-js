@@ -1,3 +1,4 @@
+// O(1) -> as n grows, the run time remains constant
 function AddUpto(n) {
     return n * (n + 1) / 2;
 }
